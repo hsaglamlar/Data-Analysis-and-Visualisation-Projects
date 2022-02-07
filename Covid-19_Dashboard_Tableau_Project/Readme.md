@@ -17,3 +17,5 @@ There are two milestones in the project.
 * Create an interactive dashboard.
 
     **Note:** The dataset is not alive to be able to embed to the file. The last recod was taken at December 2021. So the gap at the end of graphs occurs.
+## Tableau Public
+The link for the project file at **Tableau Public** is [Covid-19Tacker](https://public.tableau.com/app/profile/halil.saglamlar/viz/Covid-19Tacker/Covid-19WorldMap?publish=yes)
