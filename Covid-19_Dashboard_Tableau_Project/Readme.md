@@ -2,10 +2,6 @@
 ## Overview
 COVID-19 is the infectious disease caused by the coronavirus, SARS-CoV-2, which is a respiratory pathogen. World Health Organization first learned of this new virus from cases in Wuhan, People’s Republic of China on 31 December 2019.
 
-<center class="img-fluid" alt="label">
-<img src="https://drive.google.com/uc?export=view&amp;id=11yLhtbPmrhXvVXNM375yaz-6g76T_BnP" alt="covid-19" width="300">
-</center>
-
 ## Objective
 This project consist of exploring given data set, designing interactive dashboard. 
 
